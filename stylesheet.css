@@ -28,7 +28,7 @@ body {
 
 .lesson-wrapper {
   height: 500px;
-  padding-bottom: 700px;
+  margin-bottom: 700px;
   background-color: #f7f7f7;
   text-align: center;
 }
